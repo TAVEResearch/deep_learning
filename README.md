@@ -9,7 +9,9 @@
 
 ## 공부자료
 
-- TBD
+- 핸즈온 머신러닝
+- NVIDIA DLI CIP - Fundamentals of Deep Learning
+
 
 ## 목차
 
