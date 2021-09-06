@@ -4,7 +4,8 @@
 
 ## 참여인원
 
-- [박제윤](http://jeiyoon.github.io/), 이문기, 허주희, [안세윤](https://yunniya097.github.io/), 채원석, 하정현, 권기호, 이아현, 서가을, 고성호
+- (OB) [박제윤](http://jeiyoon.github.io/), 이문기, 허주희, [안세윤](https://yunniya097.github.io/), 채원석, 하정현
+- (YB) 권기호, 이아현, 서가을, 고성호
 
 ## 공부자료
 
