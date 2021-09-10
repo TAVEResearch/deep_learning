@@ -28,7 +28,15 @@
 
 ## 스케쥴
 
-- TBD
+- Notion: TBA
+
+- 10.1 고성호
+
+- 10.2 하정현
+
+- 10.3 서가을
+
+- 10.4 이문기
 
 <!-- ![l1](./imgs/logo_tave.png) -->
 <!-- ![l2](./imgs/logo_research.png) -->
