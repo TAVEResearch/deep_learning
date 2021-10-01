@@ -28,29 +28,7 @@
 
 ## 스케쥴
 
-- Notion: TBA
-
-- 특이사항: 원석이, 9월 23일부터 10월 14일 훈련소ㅠ (군바)
-
-- 11.1 채원석
-
-- 11.2 권기호
-
-- 11.3 서가을
-
-- 11.4 고성호
-
-- 11.5 이문기
-
-- 11.6 박제윤
-
-- 10.1 고성호
-
-- 10.2 하정현
-
-- 10.3 서가을
-
-- 10.4 이문기
+- Notion: https://tall-hardware-692.notion.site/Deep-Learning-Study-TAVE-77f7ed1e29a84457b2ade2bd8d57b8f8
 
 <!-- ![l1](./imgs/logo_tave.png) -->
 <!-- ![l2](./imgs/logo_research.png) -->
