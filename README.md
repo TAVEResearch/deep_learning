@@ -10,7 +10,7 @@
 ## 공부자료
 
 - [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml2)
-- NVIDIA DLI CIP - Fundamentals of Deep Learning
+- [NVIDIA DLI CIP - Fundamentals of Deep Learning](https://github.com/Jeiyoon/NVIDIA_fundamentals_of_deep_learning)
 
 
 ## 목차
