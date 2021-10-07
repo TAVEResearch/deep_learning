@@ -28,8 +28,7 @@
 
 ## 스케쥴
 
-- Notion: https://url.kr/aon19u
-<!-- - Notion: https://tall-hardware-692.notion.site/Deep-Learning-Study-TAVE-77f7ed1e29a84457b2ade2bd8d57b8f8 -->
+- Notion: https://tall-hardware-692.notion.site/Deep-Learning-Study-TAVE-77f7ed1e29a84457b2ade2bd8d57b8f8
 
 <!-- ![l1](./imgs/logo_tave.png) -->
 <!-- ![l2](./imgs/logo_research.png) -->
