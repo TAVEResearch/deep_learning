@@ -7,6 +7,10 @@
 - (OB) [박제윤](http://jeiyoon.github.io/), 이문기, 허주희, [안세윤](https://yunniya097.github.io/), 채원석, 하정현
 - (YB) [권기호](https://chocochip101.tistory.com/), 이아현, 서가을, 고성호
 
+## 수상
+
+- 8기 전반기 3등🎉 
+
 ## 공부자료
 
 - [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml2)
