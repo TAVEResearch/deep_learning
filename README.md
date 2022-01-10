@@ -14,6 +14,9 @@
 ## 공부자료
 
 - [핸즈온 머신러닝](https://github.com/rickiepark/handson-ml2)
+- Samsung AI Forum 2021
+- NVIDIA GTC 2021
+- \[4th GSI-IF\] DIgital Big Bang, Metaverse Technology
 
 
 ## 목차
